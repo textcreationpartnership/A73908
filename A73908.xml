@@ -1,0 +1,504 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Euodias and Syntyche, or, The female zelots [sic] of the church of Philippi mis-led, mis-guided, seduced by those of the concision, those evill workers of the said church : set forth in a sermon at Brent-wood, in Essex, Febru. 28, 1636, at the metropoliticall visitation of the most reverend Father in God, William, Lord Arch-bishop of Canterbury / by Iohn Elborrovv, vicar of S. Pancras, alias, Kentish-towne by London.</title>
+            <author>Elborow, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73908</idno>
+            <idno type="STC">STC 7551</idno>
+            <idno type="STC">ESTC S100365</idno>
+            <idno type="EEBO-CITATION">39960739</idno>
+            <idno type="OCLC">ocm 39960739</idno>
+            <idno type="VID">150377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 783:16 or 1943:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Euodias and Syntyche, or, The female zelots [sic] of the church of Philippi mis-led, mis-guided, seduced by those of the concision, those evill workers of the said church : set forth in a sermon at Brent-wood, in Essex, Febru. 28, 1636, at the metropoliticall visitation of the most reverend Father in God, William, Lord Arch-bishop of Canterbury / by Iohn Elborrovv, vicar of S. Pancras, alias, Kentish-towne by London.</title>
+                  <author>Elborow, John.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.F. for John Clark, and are to be sold at his Shop under S. Peters Church in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1637.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁴, D¹.</note>
+                  <note>Reproductions of originals in: British Library and Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Includes bibliographical references in marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Philippians IV, 3 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Visitation sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150377:1" rendition="simple:additions"/>
+            <p>EVODIAS AND SYNTYCHE: OR, THE FEMALE ZELOTS OF THE Church of PHILIPPI: Miſs-led, miſs-guided, ſeduced by thoſe of the Conciſion; thoſe evill workers of the ſaid CHURCH.</p>
+            <p>Set forth in a Sermon at <hi>Brent-wood</hi> in <hi>Eſſex; Febru:</hi> 28. 1636.</p>
+            <p>
+               <hi>At the Metropoliticall Viſitation of the moſt Reverend Father in God,</hi> WILLIAM <hi>Lord Arch-biſhop of</hi> Canterbury.</p>
+            <p>By IOHN ELBOROVV Vicar of S. <hi>Pancras,</hi> alias, <hi>Kentiſh-towne</hi> by <hi>London.</hi>
+            </p>
+            <q>
+               <bibl>HIERON.</bibl> Veteres Scripturas ſcrutans, invenire non poſſum, ſcidiſſe Eccleſi<g ref="char:EOLhyphen"/>am, &amp; de domo Dei populos ſeduxiſſe, praeter illos qui ſacerdotes à Deo poſiti fuerant, &amp; Prophetae.</q>
+            <q>
+               <bibl>2 TIM. 3. 6.</bibl> For of this ſort are they, which creep into houſes, and leade ſilly women captive.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. F.</hi> for JOHN CLARK, and are to be ſold at his Shop under S. <hi>Peters</hi> Church in <hi>Cornhill.</hi> 1637.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:150377:2"/>
+            <pb n="1" facs="tcp:150377:2"/>
+            <head>
+               <hi>Evodias</hi> and <hi>Syntyche.</hi>
+            </head>
+            <epigraph>
+               <bibl>PHIL. 4. 3.</bibl>
+               <q>And I intreate thee alſo my true yoke-fellow, help thoſe women which laboured with me in the Goſpell.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Text at the firſt reading may ſeem ſtrange for a viſitation Sermon; yet let no man prejudge it, and I doubt not, but in the opening, handling, and pro<g ref="char:EOLhyphen"/>ſecuting of it, to make it good, to ſute well with the preſent State of the Church, with this convention and occaſion.</p>
+            <p>In the former Chapter S. <hi>Paul</hi> inſtructed the <hi>Phi<g ref="char:EOLhyphen"/>lippians</hi> touching Circumciſion, Juſtification, and Sanctification.</p>
+            <p>In this he concludeth his Epiſtle with certaine ex<g ref="char:EOLhyphen"/>hortations to them, and ſalutations of them: The firſt part is Pareneticall, and exhortatory; and his ex<g ref="char:EOLhyphen"/>hortations are ſome generall, and ſome particular.</p>
+            <p>In the firſt verſe his exhortation was generall to the whole Church of <hi>Philippi,</hi> to ſtand faſt in the faith; and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, therefore to doe it, becauſe of thoſe of the Conciſion, thoſe evill workers that were a<g ref="char:EOLhyphen"/>mongſt them, as in the former Chapter.</p>
+            <p>In the ſecond, his exhortation is particular, to two godly women, <hi>Evodias</hi> and <hi>Syntyche,</hi> the fema<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fa<g ref="char:EOLhyphen"/>ctious zelots zelots of the ſaid Church; that <hi>they bee <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ne minde in the Lord.</hi> And S. <hi>Paul,</hi> as the Viſitor of the ſaid Church, (for on him lay the care of all the Chur<g ref="char:EOLhyphen"/>ches) in the words of my Text, continueth his exhor<g ref="char:EOLhyphen"/>tation to the Miniſter there, (for it lyeth much in us
+<pb n="2" facs="tcp:150377:3"/> Miniſters, by our good or bad example, to hinder, or further the Churches peace) whom he calleth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his yoke-fellow, to aſſiſt him, and to put to his help<g ref="char:EOLhyphen"/>ing hand, to ſet thoſe two women at rights, to com<g ref="char:EOLhyphen"/>poſe their differences, &amp; to ſtitch up thoſe rents and breaches, which by their faction and diſ-unanimity were occaſioned in the Church of <hi>Philippi: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. And I intreate thee alſo my true yoke fellow, help thoſe women which laboured with me in the Goſpell.</hi>
+            </p>
+            <p>Before I come to the parts; firſt let mee ſhew you the meaning and explication, who this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was, for there needs no explicatio<g ref="char:cmbAbbrStroke">̄</g> of anything elſe in the text.</p>
+            <p>There is a great ſtir about it with Expoſitors; firſt<note place="margin">1. Faber. Stapulenſis. Zuinglius. Eraſmus. Cardinall Cajetane.</note> ſome would have here meant S. <hi>Pauls</hi> wife, and reade it in the feminine, <hi>Germanae conjux.</hi> Others, and the moſt reade it in the maſculine, as <hi>Theodoret, Haymo, Cornelius à Lapide, Oecumenius, Lyranus,</hi> and <hi>Carthuſia<g ref="char:EOLhyphen"/>nus:</hi> And moſt of the Greek, and Latine Fathers; yea <hi>Calvin</hi> and <hi>Beza</hi> ſo expound it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Admit it was a man, not S. <hi>Pauls</hi> wife: here is a further queſtion among Expoſitors, who it was. <hi>Va<g ref="char:EOLhyphen"/>tablus,</hi> and <hi>Velaſques</hi> the Jeſuite on the Text aſſents with him, that <hi>Epaphroditus</hi> is here meant (whom S. <hi>Paul</hi> called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>commilitone<g ref="char:cmbAbbrStroke">̄</g>
+               </hi>) who was with <hi>Paul</hi> at <hi>Rome,</hi> and caried theſe his letters thence to the <hi>Philippians.</hi> But moſt are of a contrary minde: and I ſhall determine this with <hi>Chryſoſtome, Parum intereſt ſiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c, ſive illud ſit:</hi> It matters not much who it was; but according to the unanimous conſent of the moſt and beſt Expoſitors, it is certaine it was not S. <hi>Pauls</hi> wife, nor yet <hi>Epaphroditus,</hi> but ſome other godly Mi<g ref="char:EOLhyphen"/>niſter, then in the Church of <hi>Philippi, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Socius
+<pb n="3" facs="tcp:150377:3"/> ejuſdem operis,</hi> as <hi>Eſtius</hi> notes on the Text, whoſe hel<g ref="char:EOLhyphen"/>ping hand S. <hi>Paul</hi> here intreats for the diſſolving that female faction in the Church of <hi>Philippi, And I in<g ref="char:EOLhyphen"/>treate thee alſo, &amp;c.</hi> So you have the Explication: We now come to the parts: the words you ſee are an Exhortation, wherein be pleaſed to obſerve 3. Ge<g ref="char:EOLhyphen"/>nerall parts:</p>
+            <list>
+               <item>1. The Matter of it.</item>
+               <item>2. The Motives to it.</item>
+               <item>3. The manner of S. <hi>Pauls</hi> proceeding.</item>
+            </list>
+            <p>The Matter of it; <hi>Help thoſe women,</hi> wherein ob<g ref="char:EOLhyphen"/>ſerve<note place="margin">1. Gen.</note> 2. particulars.</p>
+            <p>1. The perſons for whom S. <hi>Paul</hi> craves helpe, deſcribed</p>
+            <list>
+               <item>1. From their ſexe, <hi>women.</hi>
+               </item>
+               <item>2. By name, <hi>Evodias</hi> and <hi>Syntyche, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, thoſe women.</hi>
+               </item>
+            </list>
+            <p>2. Is the work wherein, that is unanimity, <hi>Helpe thoſe women <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> To be of one minde in the Lord.</hi>
+            </p>
+            <p>The Motives to it,</p>
+            <list>
+               <item>1. In reſpect of the women.<note place="margin">2. Gen.</note>
+               </item>
+               <item>2. In regard of his function.</item>
+               <item>3. For the credit of the Goſpel.</item>
+            </list>
+            <p>
+               <hi>For they have laboured with me in the Goſpell.</hi>
+            </p>
+            <p>The manner of S. <hi>Pauls</hi> proceeding in ſetling peace<note place="margin">3. Gen.</note> in the Church of <hi>Philippi:</hi> It was in the <hi>ſpirit of meek<g ref="char:EOLhyphen"/>neſſe,</hi> by intreating on every hand.</p>
+            <list>
+               <item>1. Thoſe factious female zelots; <hi>I pray Evodias, and I beſeech Syntyche,</hi> ver. 2.</item>
+               <item>2. The miniſter of that Church, his <hi>yoke-fellow, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> And I intreate thee alſo my true yoke-fellow, &amp;c.</hi>
+               </item>
+            </list>
+            <p>So you have the generals and their ſeverals; and
+<pb n="4" facs="tcp:150377:4"/> by the aſſiſtance of the Almighty, and your patience, I ſhall ſpeake ſomething of every one, and briefly of them all.</p>
+            <p>Of the firſt generall, the matter of his exhortati<g ref="char:EOLhyphen"/>on,<note place="margin">1. Gen. Matter.</note> 
+               <hi>Help thoſe women.</hi> And there of the 1. particu<g ref="char:EOLhyphen"/>lar: deſcribed from their ſexe, <hi>women,</hi> by name <hi>Evo<g ref="char:EOLhyphen"/>dias</hi> and <hi>Syntyche. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Thoſe women.</hi>
+            </p>
+            <p>In that S. <hi>Paul</hi> names no man in this breach and fa<g ref="char:EOLhyphen"/>ction,<note place="margin">Note.</note> but two women, I note the <hi>propenſion</hi> and <hi>pro<g ref="char:EOLhyphen"/>clivity</hi> of that ſexe to take up errors; that women are more eaſily ſeduced than men, and have their judge<g ref="char:EOLhyphen"/>ments firſt, and ſooneſt poyſoned. In <hi>Acts</hi> 16. 13. it ſeemes, the firſt that embraced religion in <hi>Philippi</hi> were women; for there it is ſaid that <hi>Paul</hi> preached unto the women that reſorted thither. And here it appears, that women were the firſt that made a ſide, led a faction, that were ſeduced in the ſaid Church. The truth of this appeared in Paradiſe, in our great grand-mother <hi>Eve: Adam</hi> was firſt formed, but <hi>A<g ref="char:EOLhyphen"/>dam</hi> was not firſt deceived: the woman was firſt in the tranſgreſſion, not the man. <hi>Viro mulier, non mu<g ref="char:EOLhyphen"/>lieri</hi>
+               <note place="margin">1 Tim. 2. 14</note> 
+               <hi>vir autor erroris.</hi> The arch-ſeducer the devill, firſt ſet upon <hi>Eve</hi> the woman, and ſeduced her, then ſhe the man. And S. <hi>Paul</hi> ſpeaks of hypocrites which<note place="margin">2 Tim. 3.</note> creep into houſes, and leade ſilly women captive. E<g ref="char:EOLhyphen"/>ver learning, (like many of our female zelots) conti<g ref="char:EOLhyphen"/>nually hearing all the Sermons they could come at; yet for all that he ſaid, that they never came to the knowledge of the truth; they acquired a jangling knowledge, holding of oppoſition, a knowledge falſe<g ref="char:EOLhyphen"/>ly ſo called. So the ſeditious <hi>Iews</hi> in the <hi>Acts</hi> of <hi>A<g ref="char:EOLhyphen"/>poſtles</hi>
+               <note place="margin">Act. 13. 50.</note> ſtirred up devout, and honourable women, and
+<pb n="5" facs="tcp:150377:4"/> the chiefe men of the City, and raiſed up perſecuti<g ref="char:EOLhyphen"/>on againſt <hi>Paul,</hi> and <hi>Barnabas, Women</hi> firſt. So thoſe of the conciſion, thoſe evill workers in the Church of <hi>Philippi,</hi> mis-guided and ſeduced thoſe good women in my Text. And there are a generation of ſuch evil workers every where in our Church of England (e<g ref="char:EOLhyphen"/>vill workers I call them in the point of diſcipline and conformity) otherwiſe perhaps blameleſſe in their lives, and painful in their Miniſtery: Amongſt whom many are clamorous, ſchiſmaticall <hi>Scripturients;</hi> moſt of them ſermonizing tre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cher Paraphraſts; ſuch as degorge diſcipline at full tables, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> full of tongue, and excellent to talke, yet un<g ref="char:EOLhyphen"/>able to ſpeak much to the purpoſe, who make a noiſe in vulgar auditories, like ſounding braſſe or tinkling Cymbals, <hi>Vere ſcioli inter mulierculas,</hi> as S. <hi>Ierome</hi> writ of <hi>Domnio,</hi> womens preachers, and jolly fellowes a<g ref="char:EOLhyphen"/>mongſt ſilly women, and in great eſteeme and admi<g ref="char:EOLhyphen"/>ration with them: who though they have ſcarce a fag end of a gift, yet will boldly be perking up into the pulpit, and can make a ſhift three or foure times a weeke to throw over ſuch ſtuffe, as workmen that well may be aſhamed; carying a bold face inſtead of ſavoury proviſion, &amp; think it ſufficient that the peo<g ref="char:EOLhyphen"/>ple heare thunder, heare them loud &amp; earneſt, though they ſee no rain. Theſe have learnt this method from the devill, to leade ſilly women captive: they have their <hi>mulieres Calvinianus</hi> (as <hi>Maldonat</hi> the Jeſuit cal<g ref="char:EOLhyphen"/>led the French women at the ſiege of <hi>Sancereo</hi>) their ſhe diſciples, &amp; female proſelytes in every place, and as S. <hi>Ierome</hi> writ of <hi>Nicolaus Antiochenus,</hi> that he had his feminine troopes. They lay the foundation of
+<pb n="6" facs="tcp:150377:5"/> their credits in the mindes of ſilly women, inſinuate themſelves into the favour &amp; affections of their wo<g ref="char:EOLhyphen"/>men,<note place="margin">Plautus Aſin.</note> and ſo get them <hi>Patronos ſatis dicaculos,</hi> ſuch pa<g ref="char:EOLhyphen"/>trons as will prattle enough in their cauſe, and juſtifi<g ref="char:EOLhyphen"/>cation: Who (as S. <hi>Ierome</hi> writ againſt <hi>Ruffinus</hi>) doe <hi>Procacitate<g ref="char:cmbAbbrStroke">̄</g> diſertitudine<g ref="char:cmbAbbrStroke">̄</g> &amp; maledicere ſuperioribus bonae co<g ref="char:cmbAbbrStroke">̄</g>ſcientiae ſignu<g ref="char:cmbAbbrStroke">̄</g> arbitrari:</hi> that is, out of their credulous ſimplicity, doe verily beleeve ſuch their procacity, &amp; ſatyricall liberty in ſpeaking evill, nay in downright railing againſt thoſe of authority, to proceed from zeale, and a good conſcience. And in their private conferences with and Catechizations of them, do ob<g ref="char:EOLhyphen"/>trude upon their women as Goſpell, their own fana<g ref="char:EOLhyphen"/>ticall aſſeverations, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and the<note place="margin">Baſil. ep. 6.</note> novell imaginations of their owne brains, and tooth and naile ſpeaking, &amp; preaching againſt the govern<g ref="char:EOLhyphen"/>ment and diſcipline of our Church, againſt the order of Biſhops, againſt our Church-liturgy; yea, &amp; Letany too, againſt the uſe of the Surpleſſe, the ring at mari<g ref="char:EOLhyphen"/>age, the croſſe at Baptiſm, kneeling at the Communi<g ref="char:EOLhyphen"/>on, bowing at the name of Jeſus, as popiſh and Anti<g ref="char:EOLhyphen"/>chriſtian. And ſilly women being thus ſeduced, ſeduce their husbands, as <hi>Eve</hi> did <hi>Adam: Hinc fundi noſtra ca<g ref="char:EOLhyphen"/>lamitas,</hi> dangerous champions in a ſchiſme; and there be no ſuch enſnaring attractives to errors &amp; factions, as women are. As they are weak, ſo are they wilful, weak in capacity and judgement, leſſe ſtrength to re<g ref="char:EOLhyphen"/>ſiſt, leſſe judgement to diſcern errors from truth, not ſo able as men to reach the depths and myſteries of knowledge: as they are firſt in faction, ſo the laſt out: as out of their credulous ſimplicity they are firſt, and eaſily ſeduced; ſo out of their peeviſh obſtinacy they
+<pb n="7" facs="tcp:150377:5"/> are laſt, &amp; with more difficulty reclaimed; and I dare ſay, a man may ſooner convert five men from the er<g ref="char:EOLhyphen"/>rors of their wayes, than one woman. But I will rake no longer on this ſore (<hi>Cynthius aurem vellit &amp; admo<g ref="char:EOLhyphen"/>nuit</hi>)<note place="margin">Virg.</note> only I could wiſh, that the <hi>Evodiaes &amp; Syntyches</hi> of our Church, our female zelots would not ſo buſily intermeddle with Church-matters (which are too high ſtrains for them to reach) not liſten to every de<g ref="char:EOLhyphen"/>ceiver, not hearken to every ſpirit; but to try the ſpi<g ref="char:EOLhyphen"/>rits whether they be of God or man: So I have done with the firſt, the female factious zelots, the diſtur<g ref="char:EOLhyphen"/>bers of the Churches peace at <hi>Philippi: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Thoſe women.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> I come to the ſecond, the work wherein S. <hi>Paul</hi> cra<g ref="char:EOLhyphen"/>veth the Miniſters helpe, that is <hi>unanimity,</hi> (a bleſſed work to ſettle peace in the Church) <hi>Help thoſe women, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> To be of one minde in the Lord.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chryſ. hom. 1. in 1. ad Cor.</hi>
+               </note>
+            </p>
+            <p>
+               <hi>Vnanimity</hi> is a work worthy of all our beſt helps.</p>
+            <list>
+               <item>1. In reſpect of the eſſentiality, and abſolute ne<g ref="char:EOLhyphen"/>ceſſity to the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the <hi>bene eſſe,</hi> the wel being of the Church.</item>
+               <item>2. In regard of the dangerous conſequents that follow upon the want, and defect of it.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>Vnanimity</hi> is the life and ſoul of the Church; <hi>Eccle<g ref="char:EOLhyphen"/>ſia nomen eſt conſenſus &amp; concordiae:</hi> A Church is a name, not of diviſion, but of unity and concord. And<note place="margin">Eraſm. pa<g ref="char:EOLhyphen"/>raph in Act. 1.</note> 
+               <hi>Ibi non eſt Eccleſia, ubi non eſt unanimitas,</hi> ſaith <hi>Eraſmus:</hi> without it no Church; <hi>Da unum, &amp; populus eſt; tolle u<g ref="char:EOLhyphen"/>num, &amp; turba eſt.</hi> The Church may fitly be compared<note place="margin">Plin. lib. 2. Nat. hiſt.</note> to that <hi>Lapis Tyrrhenus</hi> of which <hi>Pliny</hi> writes: <hi>Lapis Tyrrhenus grandis innatat, comminutus mergitur;</hi> that ſtone <hi>Tyrrhenus,</hi> while it is whole and entire, it ſwims
+<pb n="8" facs="tcp:150377:6"/> aloft; but if it be broken into pieces, every piece and parcell ſinks to the bottome: ſo the Church by una<g ref="char:EOLhyphen"/>nimity flotes, and ſwims aloft, and is ſupported, and kept above water; but if it crumble into ſects and fa<g ref="char:EOLhyphen"/>ctions, it is neere to deſtruction. In <hi>Gen. 15. 10. Abra<g ref="char:EOLhyphen"/>ham</hi>
+               <note place="margin">Before the Tem<g ref="char:EOLhyphen"/>ple was built.</note> by the appointment of the Lord, having taken a heifer, a ram, and a goat, and a turtle dove, and a pige<g ref="char:EOLhyphen"/>on; it is ſaid of him, that he divided the beaſts in the midſt, but the birds he divided not. <hi>Quare hoc fratres?</hi>
+               <note place="margin">Aug 54. Serm. de Temp.</note> (S. <hi>Aug.</hi> puts the queſtion, and reſolves it) <hi>Diviſit A<g ref="char:EOLhyphen"/>braham tria animalia, aves non diviſit, quia in eccleſia ca<g ref="char:EOLhyphen"/>tholica carnales dividuntur, ſpirituales non. dividuntur.</hi> Teaching us, as that father doth moralize it, that they are beaſts, not Chriſtians that are divided one againſt the other, that are not of one minde in the Lord.</p>
+            <p>In 1 <hi>King.</hi> 6. wee reade, that at the building of the<note place="margin">2. At the building of the Temple.</note> Temple all the ſtones were ſmoothed, hewen, and fit<g ref="char:EOLhyphen"/>ted, and then brought into the Temple, and laid; and there was neither hammer, nor axe, nor any toole of iron heard there; to teach us, that in Gods houſe, there ſhould be neither ſchiſme nor rent.</p>
+            <p>Again, when the glorious Temple was built at Je<g ref="char:EOLhyphen"/>ruſalem,<note place="margin">3. After it was built</note> God would have but one Altar there: To ſhew, <hi>Quod unum, eundem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cultum inter omnes eſſe vel<g ref="char:EOLhyphen"/>let;</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> that all that ſacrificed there, ſhould have one and the ſame worſhip, bee of one and the ſame minde. <milestone type="tcpmilestone" unit="unspecified" n="2"/> But one Altar, <hi>Vt vinculum eſſet ſacrae unitatis;</hi> that it might be unto the rude people a bond of ſacred unity: <milestone type="tcpmilestone" unit="unspecified" n="3"/> But one Altar, typifying one religion, one heart, one judgement, and one minde of all true Chriſtians.<note place="margin">4. Vnder the Goſ<g ref="char:EOLhyphen"/>pell.</note>
+            </p>
+            <p>And under the Goſpell, thoſe primitive and firſt Chriſtians that ever were, thoſe 3000. ſoules conver<g ref="char:EOLhyphen"/>ted
+<pb n="9" facs="tcp:150377:6"/> by <hi>Peters</hi> Sermon: It is ſaid of them, that they<note place="margin">Act. 2. 46. Act. 4. 32.</note> were all of one heart, and of one ſoule, and that they all continued daily in the Temple with one accord; when they prayed, they prayed all together; when they heard, they heard altogether; when they brake bread, they did it altogether, unanimouſly, uniform<g ref="char:EOLhyphen"/>ly: <hi>Tria millia domum unam, menſam unam, animam u<g ref="char:EOLhyphen"/>nam</hi>
+               <note place="margin">
+                  <hi>Chryſ. 30. Hom.</hi> on <hi>Mat. 16.</hi>
+               </note> 
+               <hi>habuerunt.</hi>
+            </p>
+            <p>And that multiplication of unities, one body, one<note place="margin">5. Eph. 4. 3, 6.</note> ſpirit, one hope, one Lord, one faith, one baptiſme, one God and Father of us all, declare that we ſhould be all of one minde in the Lord, all keep the unity of the ſpirit through the bond of peace, all ſtand faſt in<note place="margin">Phil. 1. 27, 28.</note> one ſpirit, with one minde, ſtriving together for the faith of the Goſpell. If this will not doe it, in the<note place="margin">2. The dange<g ref="char:EOLhyphen"/>rous conſe<g ref="char:EOLhyphen"/>quents upon the defect of it.</note> next place, look with the other eye upon the dange<g ref="char:EOLhyphen"/>rous conſequents that follow upon the want, and de<g ref="char:EOLhyphen"/>fect of it; &amp; by that time I dare ſay, you will all aſſent with me, that it is a work worthy of all our beſt helps.</p>
+            <p>1. As Unanimity is the life and ſoul of the Church,<note place="margin">
+                  <hi>1. Jam.</hi> 3. 16. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chryſ. in Epheſ. hom. 11.</hi>
+               </note> ſo ſchiſme and faction is a dangerous malady in the ſame; for where ſtrife is, there is confuſion, and every evill work. Which made S. <hi>Chryſoſtome Hom.</hi> 11 on the <hi>Epheſ.</hi> ſo earneſtly proteſt againſt it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. I ſay and proteſt, that to make ſchiſme in the Church, is no leſſe evill, than to fall into hereſie. Indeed it is the next way to it; ſchiſme is a green he<g ref="char:EOLunhyphen"/>reſie, and hereſie is a grown ſchiſme. And <hi>non ſemper ſervatur unitas in credendo, ubi non eſt unitas in colendo:</hi> there will not alwayes bee unity of doctrine in that Church, where there is not uniformity of diſcipline.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Diſunanimity, diſuniformity, is a breaking not on<g ref="char:EOLhyphen"/>ly
+<pb n="10" facs="tcp:150377:7"/> of the Kings, but of Gods, and the Churches peace; It cauſeth diſtraction, hinders devotion, chills the ſpi<g ref="char:EOLhyphen"/>rits of men, deads, and indiſpoſeth them unto religi<g ref="char:EOLhyphen"/>on, and clouds the underſtanding in the diſquiſition of the truth; whereby our aſſemblies in Gods houſe become gregations, not congregations: The <hi>con</hi> is gone, diſgregations rather, and <hi>Turba gravis paci, pla<g ref="char:EOLhyphen"/>cidaeque inimica quieti.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Schiſme is the Churches rupture, <hi>ſolutio continui,</hi> a diſcontinuation of parts, a disjoynting, a diſlocation, and diſſociation of the members of the body of the Church. It is a routing of our ranks, puts us out of temper, order, out of joynt, and makes us fall a pieces one from another. S. <hi>Paul</hi> implyed as much, when he<note place="margin">1 Cor. 1. 10</note> ſaw ſuch ſiding amongſt them in the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth;</hi> ſome to hold of <hi>Paul,</hi> ſome of <hi>Cephas,</hi> ſome of <hi>Apollos,</hi> ſome of Chriſt, that they were out of joynt, when he exhorted them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that they<note place="margin">Beza annot. in loc.</note> be ſet againe: for, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifieth properly to ſet a bone that is out of joynt. For as joynts are in the na<g ref="char:EOLhyphen"/>turall<note place="margin">Greg. mor. l. 19 cap. 14.</note> body, ſo is unity in the Church; <hi>Sancta Eccleſia ſic conſiſtit in unitate fidelium, ſicut corpus noſtrum u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tum eſt compage membrorum.</hi> Take away joynts in the body, and the body will be diſmembred; take away u<g ref="char:EOLhyphen"/>nity in the latter, and the Church will be diſtracted, and there will follow rents, ſchiſmes, diſorders and fractions.</p>
+            <p>For inſtance and example: 1. What a ſtir made <hi>Co<g ref="char:EOLhyphen"/>rah,</hi>
+               <note place="margin">1. Iſrael. Num. 16. 3.</note> 
+               <hi>Dathan,</hi> &amp; <hi>Abiram</hi> in the congregation of Iſrael?</p>
+            <p>What contentions were there in the Church of<note place="margin">2. Church of Co<g ref="char:EOLhyphen"/>rinth.</note> 
+               <hi>Corinth,</hi> and how did they one ſwel againſt the other? ſome would pray and propheſie bare-headed, others
+<pb n="11" facs="tcp:150377:7"/> with their head covered; and when they came unto the Lords ſupper, one was hungry, and another was drunken; in as much as S. <hi>Paul</hi> wrote his firſt Epiſtle to diſſolve thoſe factions, and repreſſe thoſe diſſenti<g ref="char:EOLhyphen"/>ons that were amongſt them.</p>
+            <p>In the Church of <hi>Philippi,</hi> what broiles, and fracti<g ref="char:EOLhyphen"/>ons<note place="margin">3. Church of Philip<g ref="char:EOLhyphen"/>pi.</note> were there by reaſon of the variance, &amp; ſtrife, and diſſention (and that not <hi>O economicall</hi> about <hi>meum</hi> and <hi>tuum,</hi> but <hi>Eccleſiaſticall,</hi> and in matters of religion) of <hi>Evodias</hi> &amp; <hi>Syntyche,</hi> the female zelots in my Text (o<g ref="char:EOLhyphen"/>therwiſe godly and religious) that by their over-cre<g ref="char:EOLhyphen"/>dulity were mis-led, mis-guided, &amp; ſeduced by thoſe of the Conciſion; thoſe <hi>evill workers,</hi> as S. <hi>Paul</hi> cals the<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>So in our Church of <hi>England,</hi> (to come home to our<note place="margin">4. Church of Eng<g ref="char:EOLhyphen"/>land.</note> ſelves) what lamentable fractions, and miſerable di<g ref="char:EOLhyphen"/>ſtractions are now amongſt us? what ſcandalous and irreligious libels? what indiſcreet, and ſatyricall pam<g ref="char:EOLhyphen"/>phlets have been lately diſperſed againſt the Gover<g ref="char:EOLhyphen"/>nours and government of our Church? what heart<g ref="char:EOLhyphen"/>burning betwixt Miniſter and Miniſter, betwixt Mi<g ref="char:EOLhyphen"/>niſter and people, and how do you one ſwell againſt another? For <hi>Sions</hi> ſake I cannot hold my peace, and with <hi>Moſes, Liberabo animam meam:</hi> You muſt pardon me if I be down right, and ſpeak home in the Chur<g ref="char:EOLhyphen"/>ches cauſe. And here I cannot but lament, &amp; deplore the want &amp; defect of the practiſe of this ancient, and heavenly duty of <hi>unanimity</hi> amongſt us, in the words of <hi>S Bernard: Vbi, ubi nunc illud unanimit at is exercitiu<g ref="char:cmbAbbrStroke">̄</g>?</hi> How diſunanimous, diſuniform, diſorderly are yee in the houſe, at the ſervice of God? what rude contenti<g ref="char:EOLhyphen"/>ons, and uncivill conteſtations are in your Churches? how unſervice-like is your ſervice there? how homely
+<pb n="12" facs="tcp:150377:8"/> are ye in ſpeech and geſture with God, in, and at the participation of Gods ordinances, as if <hi>Arrian</hi> like ye were haile fellow, and familiar with him? how ſtout are your hearts, &amp; how ſtiffe are your knees, that will not bow at the name of Jeſus, no more than the ſeats you ſit on, or the pillars of the Church? how is the authority of the Church out-faced? how are the Ca<g ref="char:EOLhyphen"/>nons and Conſtitutions of the ſame neglected, &amp; vi<g ref="char:EOLhyphen"/>lified by every ignorant illiterate Artizan, Mecha<g ref="char:EOLhyphen"/>nick, high-ſhooes; by every ſelf-willed, peeviſh <hi>Evo<g ref="char:EOLhyphen"/>dias</hi> and <hi>Syntyche, Quaſi lege putant ſe teneri nulla.</hi> Yea, &amp; by too too many miniſters too, (<hi>O tell it not in Gath</hi>) they who ſhould bee ringleaders in obedience, and conformity, yet (<hi>proh dolor</hi>) become <hi>factionum &amp; diſ<g ref="char:EOLhyphen"/>cordiaru<g ref="char:cmbAbbrStroke">̄</g> duces,</hi> as it was ſaid of the <hi>Syndichs</hi> of <hi>Geneva.</hi> It is lamentable to conſider, that abundance of know<g ref="char:EOLhyphen"/>ledge ſhould produce ſuch ill effects; as rebellion, diſ<g ref="char:EOLhyphen"/>unanimity, diſuniformity: that every woman will be a <hi>Bernice,</hi> &amp; dare to interpret Scripture, which is not of private interpretation; that every <hi>Evodias</hi> and <hi>Syntyche</hi> will buſily intermeddle with the Rites and government of the Church, and teach the Magiſtrate to rule, and the Miniſter to preach; that <hi>Sic dicit hom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> ſo ſaith ſuch a Reverend miniſter, ſhould ſway and preponderate, and prevaile more with them than <hi>Sic jubet Eccleſia;</hi> that ſuffer the opinions of private men &amp; miniſters to over ballance with them the publique and deliberate determinations, Canons and conſtitu<g ref="char:EOLhyphen"/>tions of ſuch a nationall Church. It being thus my brethren, as thus it is, I appeal to you all whether this <hi>(viz Vniformity)</hi> be not a worke worthy of all your help; to compoſe the differences, and to ſtitch up
+<pb n="13" facs="tcp:150377:8"/> thoſe rents and breaches, which faction, diſunani<g ref="char:EOLhyphen"/>mity, diſuniformity hath occaſioned at this preſent in our Church of England. So much of the firſt gene<g ref="char:EOLhyphen"/>rall, the Matter of his exhortation, <hi>Help thoſe women,</hi> and of the perſons for whom he craveth help, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Thoſe women.</hi> 2. Of the worke wherein, <hi>unanimity.</hi>
+            </p>
+            <p>I now come to the motives to it, which S. <hi>Paul</hi> here<note place="margin">2. Gen. Motives to it.</note> uſed to the Miniſter of the Church of <hi>Philippi,</hi> to ex<g ref="char:EOLhyphen"/>cite and ſtir him up to help forward ſo good a worke as the Churches peace, (&amp; the ſame I ſhall uſe to you my brethren in the miniſtery) as it followeth in the Text: <hi>For they have laboured with me in the Goſpell.</hi>
+            </p>
+            <p>
+               <hi>Non parvi pendendae,</hi> ſaith <hi>Anſelme: Evodias</hi> and <hi>Syn<g ref="char:EOLhyphen"/>tyche,</hi>
+               <note place="margin">1. Inregard of thoſe women.</note> the women in the Text, were not to be ſlighted or neglected; they were godly and religious, and by their over-credulity, mis-led, mis-guided, ſeduced by thoſe of the Conciſion, thoſe evill workers that were amongſt them, even to the hazarding of their preci<g ref="char:EOLhyphen"/>ous fouls: and the Lord, as he hath committed to our truſt the diſpenſation of his Goſpell, ſo the care and charge of their ſouls: and herein you ſhall ſhew your ſelves skilfull artiſts in ſaving of ſoules, by helping your women out of their errors, as S. <hi>Iames</hi> expreſly: <hi>Brethren, if any of you doe erre from the truth, and one con<g ref="char:EOLhyphen"/>vert</hi>
+               <note place="margin">James 5. 19, 20.</note> 
+               <hi>him; let him know, that he which converts a ſinner from the error of his way, ſhall ſave a ſoule from death.</hi>
+            </p>
+            <p>For your functions ſake: As if <hi>Paul</hi> had ſaid, thoſe<note place="margin">2. Inreſpect of his function.</note> women have laboured with mee in the Goſpell, doe thou take ſome paines and labour with them. As it is a notable wyle, &amp; ſtratageme of the devill, when he cannot hinder the truth amongſt us, to diſturb our peace; So it is none of the leaſt parts of our Miniſtra<g ref="char:EOLhyphen"/>tion
+<pb n="14" facs="tcp:150377:9"/> in the Goſpell, to ſettle and eſtabliſh it: We are <hi>praecones pacis,</hi> and it is not enough that we be <hi>Pacati,</hi> peace keepers, (which I feare all of us are not) kee<g ref="char:EOLhyphen"/>pers of the Churches peace, by our conformable obe<g ref="char:EOLhyphen"/>dience; but we muſt be <hi>Pacifici</hi> too, peace-makers: not <hi>actively,</hi> but <hi>factively</hi> too; we muſt convert men and women from their errours, compoſe their diffe<g ref="char:EOLhyphen"/>rences, rectifie their judgements, &amp; ſet them at rights, help our women out, not further into errours.</p>
+            <p>For the Goſpels ſake, <hi>They have laboured with me in</hi>
+               <note place="margin">3. For the credit of the Goſ<g ref="char:EOLhyphen"/>pell.</note> 
+               <hi>the Goſpell, Athletice decertaverunt,</hi> as <hi>Cornelius à Lapide</hi> on the Text, they have ſtood ſtoutly for the defence of the Goſpel; O help them for the credit of the Goſ<g ref="char:EOLhyphen"/>pell, It is a great blow to religion, to ſee Gods dear children together by the eares, at ſtrife and variance in matters of religion; to ſee our Mother the Church like <hi>Rebecca,</hi> grieved and pained, and troubled in her wombe, with the ſtrivings, oppoſitions, and reluctan<g ref="char:EOLhyphen"/>cies of two children of contrary diſpoſitions, as the <hi>Conformitan</hi> and <hi>Inconformitan:</hi> God and his Goſpel are wounded through the ſides of ſuch factious and ſchiſmaticall goſpellers, they make the word of God to be evill ſpoken of, and bring a ſcandall upon the glorious Goſpel, which we and they preach and pro<g ref="char:EOLhyphen"/>feſſe. <hi>Hanc ob rem deridiculi facti ſumus Iudaeis, &amp; gen<g ref="char:EOLhyphen"/>tibus; dum Eccleſia in mille partes ſcinditur:</hi> For this cauſe are we become a laughing ſtock to Jewes and Gentiles, even by reaſon of our many fractions and diviſions. As the diviſion of tongues hindered the building up of <hi>Babel;</hi> ſo diviſion of hearts, diſunion of mindes, and diſuniformity of poſture and geſture, the building up of our Jeruſalem, the building up of
+<pb n="15" facs="tcp:150377:9"/> one another in an holy faith. I beſeech you then my brethren, ſuffer a word of exhortation, and be intrea<g ref="char:EOLhyphen"/>ted for the peace of the Churches ſake, for your peo<g ref="char:EOLhyphen"/>ples ſoules ſake, for your own functions ſake, for the glorious Goſpels ſake, to put to your helping hands to ſet forward the Churches peace: So while there is peace within our walls, God will ſend plenteouſneſſe within our palaces; and God, even our God will give<note place="margin">Pſ. 122. 7.</note> us his bleſſing. So much of the 2. Generall: The mo<g ref="char:EOLhyphen"/>tives to it.</p>
+            <p>I now come to the 3. Generall: The manner of<note place="margin">3. Gen.</note> S. <hi>Pauls</hi> proceeding, in ſetling peace in the Church of <hi>Philippi;</hi> not commanding (though over them in the Lord) but intreating.</p>
+            <list>
+               <item>1. Thoſe factious female zelots; I pray <hi>Evodias,</hi> and I beſeech <hi>Syntyche.</hi>
+               </item>
+               <item>2. The Miniſter of the ſaid Church: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>And I intreate thee alſo my true yoke-fellow.</hi>
+               </item>
+            </list>
+            <p>Good natures (ſuch as are in them that are truly re<g ref="char:EOLhyphen"/>ligious)<note place="margin">1. Monendo potius qua<g ref="char:cmbAbbrStroke">̄</g> minando. <hi>Tert.</hi>
+               </note> are ſooner woone by lenity, than ſerenity, <hi>Citius leni ſpiritu, quam dura manu,</hi> by gentle obſecra<g ref="char:EOLhyphen"/>tions, then terrible comminations; many will leade, that will not drive, may be perſwaded, that will not be compelled; when fulſome potions, and bitter pils are ſweetned with ſugar they will the ſooner be ſwal<g ref="char:EOLhyphen"/>lowed, and the better digeſted. The Apoſtles where they come once with a rod, they come ten times with the ſpirit of meekneſſe, with <hi>I pray, I beſeech.</hi>
+            </p>
+            <p>This was S. <hi>Pauls</hi> courſe with all the Churches,<note place="margin">1 Cor. 1. 10.</note> 1 <hi>Cor. 1. 10. I beſeech you brethren by the name of our Lord Ieſus Chriſt, that ye all ſpeak the ſame thing, &amp; that there be no diviſions amongst you, but that ye be perfectly
+<pb n="16" facs="tcp:150377:10"/> joyned together in the ſame minde, and in the ſame judge<g ref="char:EOLhyphen"/>men.</hi> In his Epiſtle to Philemon, ver. 8, 9. <hi>Though I</hi>
+               <note place="margin">Philemon 8, 9.</note> 
+               <hi>might be much bold in Chriſt to command thee that which is convenient, yet for loves ſake I rather beſeech thee.</hi> So<note place="margin">Zanch. in loc.</note> here in the Church of <hi>Philippi; non imperat,</hi> hee doth not command, <hi>nec carcerem minatur,</hi> neither doth he frighten, and threaten them with impriſonment, <hi>ſed rogat,</hi> as <hi>Zanchy</hi> notes on the Text. <hi>I pray Evodias, &amp; I beſeech Syntyche.</hi>
+            </p>
+            <p>In the old Law, the high Prieſts and the reſt, which were appointed in ſome caſes to be Judges of the peo<g ref="char:EOLhyphen"/>ple, were ſprinkled not with oile alone, or blood a<g ref="char:EOLhyphen"/>lone, but blood and oyle mingled together; to teach, <hi>Neque habere ſine miſericordia juſtitiam, neque ſine juſti<g ref="char:EOLhyphen"/>tia miſericordiam:</hi> So S. <hi>Paul, Shall I come unto you with</hi>
+               <note place="margin">1 Cor. 4. 21.</note> 
+               <hi>a rod, or in love, and in the ſpirit of meekneſſe. S. Ambroſe</hi>
+               <note place="margin">Amb. lib. 7. in Luc.</note> in his 7. <hi>lib. in Luc.</hi> tells us: <hi>Paulus virgam mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atur, ſed in ſpiritu manſuetudinis viſitat delinquentes; Paul</hi> ſhew<g ref="char:EOLhyphen"/>eth and threatneth the rod, but yet he viſiteth delin<g ref="char:EOLhyphen"/>quents and offenders in the ſpirit of meekneſſe.</p>
+            <p>This, even this is the manner of our Churches pro<g ref="char:EOLhyphen"/>ceeding: the diſcipline of the Church is adviſedly, and deliberately exerciſed; not raſhly precipitated, and therefore much too blame are many clamorous Inconformitans, that cry out of perſecution, perſecu<g ref="char:EOLhyphen"/>tion in every place. As S. <hi>Ambroſe</hi> adviſed in the<note place="margin">Amb. ep. 44.</note> like caſe in his time, is now performed in our Chur: <hi>Si quis ſuſpectae ſit infirmitatis, indulge aliquantulum,</hi> if miniſters or people bee not only ſuſpected, but con<g ref="char:EOLhyphen"/>vinced of inconformity; the Church beares and for<g ref="char:EOLhyphen"/>beares with a great deale of patience. There wants no fatherly admonitions, no gentle perſwaſions, no
+<pb n="17" facs="tcp:150377:10"/> beſeechings, intreatings, or obſecrations.</p>
+            <p>We may truly ſay of the Governours of our Chur:<note place="margin">Amb. de ob<g ref="char:EOLhyphen"/>itu Theod.</note> as S. <hi>Ambroſe</hi> ſpake of that good Emperour <hi>Theodoſi<g ref="char:EOLhyphen"/>us, Cum haberet ſupra omnes poteſtatem, quaſi parens ex<g ref="char:EOLhyphen"/>poſtulare malebat, quam quaſi judex punire; vincere vole<g ref="char:EOLhyphen"/>bat, non plectere:</hi> When he hath command over all, he had rather expoſtulate as a Father, than puniſh as a Judge, he deſires to win by lenity (if it may bee) not to force by extremity: <hi>Diu tractatur putrida pars, ſi ſa<g ref="char:EOLhyphen"/>nari poteſt medicamentis: ſi non poteſt, à medico bono ab<g ref="char:EOLhyphen"/>ſcinditur: Sic Epiſcopi boni affectus eſt, ut optet ſanare in<g ref="char:EOLhyphen"/>firmos, ſerpentia auferre ulcera, adurere aliqua, non ab<g ref="char:EOLhyphen"/>ſcindere, poſtremo, quod ſanari non poteſt, cum dolore ab<g ref="char:EOLhyphen"/>ſcindere.</hi> The putrified part is a long time gently han<g ref="char:EOLhyphen"/>dled, that it may be healed; if it cannot, or will not, it is cut off by the good Phyſitian. So this, you ſee and know is the manner of proceeding of the Governors of our Church, with our peeviſh, factious, ſchiſmati<g ref="char:EOLunhyphen"/>call <hi>Non-conformiſts: Optant ſanare infirmos,</hi> they de<g ref="char:EOLhyphen"/>ſire to heale the ſick, endeavour by all faire meanes to take away errors, ſchiſmes, thoſe ſpreading ulcers out of the Church; to ſeare ſome by ſuſpenſion, <hi>in terro<g ref="char:EOLhyphen"/>rem, &amp; exemplum,</hi> not to cut them off. <hi>Poſtremo, quod ſanari non poteſt,</hi> what through peeviſh obſtinacy, and contumacious pertinacy cannot, or will not be hea<g ref="char:EOLhyphen"/>led or reclaimed, to caſt out of the Church (and that deſervedly) by Excommunication, or to cut off by degradation, and deprivation: <hi>Durities vincenda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt, non ſuadenda:</hi> Contumacy is to be roughly handled, and <hi>Melius eſt ut pereat unus, quam unitas;</hi> yet, <hi>cum do<g ref="char:EOLhyphen"/>lore</hi>
+               <note place="margin">Ber. 102. ep.</note> 
+               <hi>abſcindunt:</hi> the Church correcting her obſtinate rebellious children, as tender-hearted mothers doe
+<pb n="18" facs="tcp:150377:11"/> their ſtubborne babes, with teares in their eyes, and with griefe and ſorow of heart: So you have S. <hi>Pauls</hi> manner of proceeding with thoſe female factious ze<g ref="char:EOLhyphen"/>lots, <hi>I pray, I beſeech.</hi>
+            </p>
+            <p>One word of S. <hi>Pauls</hi> like proceeding with the Miniſter of that Church (whom he calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>his yoke-fellow</hi>) in ſo needfull a work, and I have done; &amp; that is by intreating too: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>And I in<g ref="char:EOLhyphen"/>treat thee alſo my true yoke<g ref="char:punc">▪</g> fellow.</hi>
+            </p>
+            <p>And this is all that I have further to ſay; with S. <hi>Paul,</hi> to <hi>pray, beſeech,</hi> and intreate every one of you in your ſeverall rankes and ſtations, even from the high<g ref="char:EOLhyphen"/>eſt to the loweſt, to put to your helping hands (as the times require) to ſet forward ſo good a worke as the Churches peace.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> And firſt I intreate your helps, you that are Sides<g ref="char:EOLhyphen"/>men, &amp; Church-wardens, remember your oaths, and know, that to take an oath is more than to kiſſe a booke: and ſee to it, that ye duly, and faithfully (ac<g ref="char:EOLhyphen"/>cording to the tenour of your oaths) preſent mini<g ref="char:EOLhyphen"/>ſters and people that are wilfull diſturbers and brea<g ref="char:EOLhyphen"/>kers of the Churches peace, that conforme not to the laudable ceremonies of our Church. Eſpecially thoſe runners after the perſons of men, that run diſorderly<note place="margin">Running fro<g ref="char:cmbAbbrStroke">̄</g> their owne pariſh and miniſter, a great abuſe in our Chur:</note> from their owne miniſter (to his no little diſanima<g ref="char:EOLhyphen"/>tion) unto other pariſhes, to heare ſome <hi>Allobrogicall diſciplinarian<g ref="char:punc">▪</g>
+               </hi> or ſome <hi>Genevian Paſſavant<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an.</hi> This ſame gadding and madding after the perſons of men, is a maine hinderance to the Churches peace, and the ground and cauſe of ſo much ſchiſme, faction, and ſe<g ref="char:EOLhyphen"/>dition in the Church of England.</p>
+            <p>Next, I intreate your helpe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>my true
+<pb n="19" facs="tcp:150377:11"/> yoke-fellows,</hi> my reverend brethren in the Miniſtery; remember we are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, like oxen, we ſhould all look one way, and draw orderly in the ſame yoke. If wee then draw one way, you another; if wee be for con<g ref="char:EOLhyphen"/>formity, you againſt it, we are not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Lords work will not on, we ſhall draw all aſunder.</p>
+            <p>And here I cannot be ſilent in the Churches cauſe, I muſt crave leave without offence, to reprove two ſorts of miniſters in our Church; who ſince they will not be intreated, deſerve to be reproved.</p>
+            <list>
+               <item>1. Such as are not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>yoke-fellows.</hi>
+               </item>
+               <item>2. Such as are not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>true yoke-fellows.</hi>
+               </item>
+            </list>
+            <p>The firſt ſort ſet back to back, and draw contrary to us.</p>
+            <p>The ſecond ſort draw very ſlowly, and need the goade, admonition at leaſt, and that from the mouth<note place="margin">1. V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teres Scripturas ſcrutans invenire non poſ<g ref="char:EOLhyphen"/>ſum ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idi<g ref="char:punc">▪</g> ſe Eccleſia<g ref="char:cmbAbbrStroke">̄</g> &amp; de do<g ref="char:punc">▪</g> mo Dei, pop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>los ſeduxiſſe, prae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<g ref="char:EOLhyphen"/>los, qui ſa<g ref="char:EOLhyphen"/>cerdotes à Deo poſiti fuerant, &amp; Prophetae. <hi>Hieron. Epheſ. 4. 13. Acts 20. 30. Aug. 2. li. de <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pt. cont. Donat.</hi>
+               </note> of authority, to quicken and enliven them to it.</p>
+            <p>For the firſt, there are (<hi>proh dolor</hi>) too too many pull-backs in the Church of England, that helps the clean contrary way; that were appointed for the ſafe guarding of the Church, &amp; yet prove the ſmiters and wounders of her<g ref="char:punc">▪</g> that have taken ſacred orders, and were purpoſely ordained in the Church, for the brin<g ref="char:EOLhyphen"/>ging of men into the unity of faith, and of the know<g ref="char:EOLhyphen"/>ledge of the ſonne of God: yet out of a ſpirit of con<g ref="char:EOLhyphen"/>tradiction, and ſingularity, many doe ariſe that ſpeak perverſe things, to draw away diſciples after them; that hinder, not help forward the Churches peace; why is it thus my brethren? let me expoſtulate you our mothers cauſe in the words of S. <hi>Auguſtine, Vos engo, quare ſacrilega a ſeparatione pacis vinculum dirupiſtis:</hi> Is it becauſe our ceremonies are not commanded in
+<pb n="20" facs="tcp:150377:12"/> the word of God? Tell me, where are they forbid<g ref="char:EOLhyphen"/>den? And S. <hi>Auguſtine</hi> in one of his Epiſtles may ſa<g ref="char:EOLhyphen"/>tisfie<note place="margin">Ep. 86. ad <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſul.</note> you in that; <hi>In quibus nihil certi ſlatuit Scriptura, mos populi Dei, &amp; inſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tuta m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lege ten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>da ſunt,</hi> where the word of God determines no certainty, as in Rites and ceremonies, there the cuſtome of the Church, and the conſtitutions of her governours, are to be taken for a law. And M<hi rend="sup">r</hi>. <hi>Calvin</hi> ſaith, things<note place="margin">Calvin. lib. 4. Inſtit.</note> indifferent are <hi>in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cleſiae libertate poſita,</hi> referred to the Churches diſcretion. If not this, is it rather, becauſe our<g ref="char:punc">▪</g> ceremonies to you ſeem unlawfull, and inconve<g ref="char:EOLhyphen"/>nient; and you, and godly people are troubled at th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? you ſuppoſe it, and to you they ſeem ſo: well, will<note place="margin">Malu<g ref="char:cmbAbbrStroke">̄</g>t per<g ref="char:EOLhyphen"/>verſis voei<g ref="char:EOLhyphen"/>bus veritat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reluctati, quam con<g ref="char:EOLhyphen"/>feſſis erro<g ref="char:EOLhyphen"/>ribus pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i reſtitui. <hi>Aug. 3. li. de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>apt. cont. D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t. 1.</hi>
+               </note> you therefore for ſeeming ſuppoſitious inconveni<g ref="char:EOLhyphen"/>ences, ſtubbornly draw contrary to your yoke-fel<g ref="char:EOLhyphen"/>lowes, that you will rather loſe your living, liberty, countrey, than your opinion? I am ſure <hi>Calvin</hi> ne<g ref="char:EOLhyphen"/>ver taught you that doctrine, neither</p>
+            <list>
+               <item>1. In the point of wilfulneſſe.</item>
+               <item>2. Nor in the caſe of ſeeming inconveniences.</item>
+            </list>
+            <p>Not in the point of wilfulneſſe: For when the con<g ref="char:EOLhyphen"/>ſiſtorian diſcipline did lie<g ref="char:punc">▪</g> a bleeding, ready to expire, and the whole matter betwixt <hi>Calvin,</hi> and the <hi>Syn<g ref="char:EOLhyphen"/>dichs</hi> of <hi>Geneva</hi> was referred to the foure <hi>Helvetian</hi> Cities, to the Magiſtrates, and miniſters thereof: <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> ſecretly and ſpeedily ſent letters by <hi>Budaeus</hi> to <hi>Bullinger</hi> and the reſt, wherein amongſt other things he thus wrote; <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſitate noſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fiet, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t loco potius cedamus, quam ſententia:</hi> that is, neither are wee ſo wilfull, and ſtifned in our opinions, that wee will ra<g ref="char:EOLhyphen"/>ther loſe our place, than our opinion. I could wiſh that all of our Church were of his minde in this.</p>
+            <pb n="21" facs="tcp:150377:12"/>
+            <p>Nor in the caſe of ſeeming inconveniences; For<note place="margin">2. Bezain vit. Calv.</note> inſtance, the wafer Cake of <hi>Geneva,</hi> the communion<g ref="char:EOLhyphen"/>bread ſeemed inconvenient to <hi>Calvin</hi> himſelfe, and godly people were grieved at it, and was more ſcan<g ref="char:EOLhyphen"/>dalouſly abuſed in Popery, than any thing that our Church enjoynes, yea than the Croſſe it ſelfe: Yet mark, <hi>Calvin</hi> adviſed his friends not to make any tu<g ref="char:EOLhyphen"/>mult for a thing indifferent, eſteeming the wafer Cake to be a thing indifferent. And in his 370. Epi<g ref="char:EOLhyphen"/>ſtle, anſwering to certaine queſtions of diſcipline, profeſſed that he miſliked the frowardneſſe of thoſe men, which for ſuch light ſcruples depart from the publique conſent. And my brethren, were I either a<g ref="char:EOLhyphen"/>ble, or worthy to adviſe, I ſhould give you the ſame counſell that <hi>Auguſtine</hi> gave to <hi>Caſulanus:</hi> When there are divers Rites uſed in the ſame Church; (though the Chu: enjoynes one &amp; the ſame) namely, when we bow at the name of <hi>Ieſus,</hi> and you will not; we ſtand up at <hi>Gloria Patri,</hi> you ſit, and ſo of the reſt; when there is our <hi>yea,</hi> your <hi>nay;</hi> what is in this caſe to bee done, whom ſhould we follow? His advice is,<note place="margin">Aug. 84. ep. ad Caſul.</note> 
+               <hi>Epiſcop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tuo in hac re noli reſiſtere, ſed quod ipſe facit, ſi<g ref="char:EOLhyphen"/>ne ullo ſcrupulo, aut diſceptatione ſect are:</hi> that is, to fol<g ref="char:EOLhyphen"/>low them and their directions to whom the govern<g ref="char:EOLhyphen"/>ment of the Church is committed; and not the ex<g ref="char:EOLhyphen"/>ample, direction, fancy of every private miniſter.</p>
+            <p>There is another ſort too, not true yoke<g ref="char:punc">▪</g> fellowes in the point of confirmity, and, I beleeve, even here amongſt us ſome of that condition, that draw ſlowly, <hi>Movere vide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, at non promovere:</hi> that are conformable in judgement, and ſomewhat in practiſe; yet are eaſie and remiſſe in the Churches cauſe, which preferre
+<pb n="22" facs="tcp:150377:13"/> the favour and good opinion of their <hi>Evodiaes</hi> and <hi>Syntyches,</hi> of their female zelots, their good dames be<g ref="char:EOLhyphen"/>fore the Churches peace: <hi>Ahabs</hi> friendſhip, that is, the favour of ſome great man in your pariſh, or coun<g ref="char:EOLhyphen"/>trey: or <hi>Eſaus</hi> portion, that is, your good meales, and free entertainment; or I wot not what elſe you are loth to be without, that which followes after, that is thruſt into your hand, or ſent home after you: the charity of your good dames, makes many of you (for ſuch baſe and ſiniſter ends) to betray God in his ſer<g ref="char:EOLhyphen"/>vice, and to lay the reines on your peoples necks, to doe what they liſt, and like lawleſſe libertines to ſerve God after their owne faſhion.</p>
+            <p>
+               <hi>I beſeech you</hi> (for the cloſe of all) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>my true yoke-fellowes,</hi> take to heart the lamentable fracti<g ref="char:EOLhyphen"/>ons, and miſerable diſtractions of our mother the Church: And ſuffer a word of exhortation: be in<g ref="char:EOLhyphen"/>treated by the wombe that bare you, &amp; the paps that gave you ſuck, to put to your helping hand to ſet for<g ref="char:EOLhyphen"/>ward ſo good a work, as <hi>unanimity, uniformity,</hi> the Churches peace; and that,</p>
+            <list>
+               <item>1. <hi>Praecepto.</hi>
+               </item>
+               <item>2. <hi>Exemplo.</hi>
+               </item>
+               <item>3. <hi>Prece.</hi>
+               </item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Helpe it forward firſt <hi>Praecepto,</hi> by your publique Miniſtery; preach ſtoutly, and ſtand ſtifly for it; O, not againſt it; helpe thoſe women in your ſeverall charges, in matters of ceremonies (as <hi>Calvin</hi> did in<g ref="char:EOLhyphen"/>ſtruct the weak in <hi>Geneva,</hi> that were troubled at the wafer Cake) poſſeſſe them with the power and au<g ref="char:EOLhyphen"/>thority of the Church, with the nature and indiffe<g ref="char:EOLhyphen"/>rency of a ceremony, rectifie their judgements, com<g ref="char:EOLhyphen"/>poſe
+<pb n="23" facs="tcp:150377:13"/> their differences, and ſtitch up thoſe rents, and breaches that are amongſt them, and perſwade them to obey them that have the rule over them, and to ſubmit to every Ordinance of man for the Lords ſake.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Exemplo,</hi> help it forward by your owne examples: There is a great force in examples; Walk, ſaith S. <hi>Paul</hi> as you have us for an example: Many times, when reaſon will not perſwade, example will; this is a rea<g ref="char:EOLhyphen"/>dy way to it, this would doe it, if you would be per<g ref="char:EOLhyphen"/>ſwaded to it: In the 9. <hi>Iudges</hi> 48, 49. When the peo<g ref="char:EOLhyphen"/>ple ſaw <hi>Abimelech</hi> cut downe boughs of trees, all the people by his example did the like. Be you my bre<g ref="char:EOLhyphen"/>thren exemplary to your people, in your ſeverall charges, in all religious comportments, reverend pro<g ref="char:EOLhyphen"/>ſtrations, genu-flexions, incurvations in the ſervice of God, and then this work will forward apace.</p>
+            <p>
+               <hi>Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce,</hi> help it forward by your prayers too; <hi>Adjuva</hi>
+               <note place="margin">3. Pſal. 122. 6.</note> 
+               <hi>illas, tam orationibus, quam exhortationibus,</hi> ſaith <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſelme:</hi> O pray for the peace of <hi>Ieruſalem,</hi> they ſhall proſper that love thee; let us beg of God to put to his helping hand in ſo needfull a work. <hi>Help Lord, elſe vaine is the help of man.</hi> O thou God of peace, give us all peace through Chriſt our Lord: Thou Lord that makeſt all to be of one minde in one place, grant us all to be alike-minded one towards another in Chriſt Jeſus: Thou that art a God of unity, give unto us the<note place="margin">Deus uni<g ref="char:EOLhyphen"/>tas, unita<g ref="char:EOLhyphen"/>tis omnis effectrix. <hi>Dionyſ. A<g ref="char:EOLhyphen"/>reopagito.</hi>
+               </note> ſpirit of unity, that we may keep the unity of the ſpi<g ref="char:EOLhyphen"/>rit through the bond of peace. And we beſeech thee to grant that all we, which profeſſe thy holy name, may agree in the truth of thy holy word, and live in unity and godly love; that with one heart, minde,
+<pb n="24" facs="tcp:150377:14"/> mouth, manner, unanimouſly, uniformly, wee may ſerve and praiſe thee in this Church militant, that hereafter we may be made members of that, which is Triumphant; whither he bring us, that hath ſo dearely bought us, Jeſus Chriſt the righteous: To whom with the Father, and Holy Spirit, be aſcribed, as moſt due is, from the grounds of all our hearts, all honour, and glory, praiſe, power, might, majeſty, and dominion, now and for evermore.</p>
+         </div>
+         <div type="license">
+            <p>
+               <hi>PErlegi Concionem hanc, cui titulus eſt,</hi> [Evo<g ref="char:EOLhyphen"/>dias <hi>and</hi> Syntyche.] <hi>eámque typis mandari permitto.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Apr. 2. 1637.</date> 
+                  <hi>Ex aedibus Lond:</hi>
+               </dateline>
+               <signed>SA: BAKER.</signed>
+            </closer>
+            <pb facs="tcp:150377:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
